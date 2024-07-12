@@ -1,0 +1,22 @@
+.card {
+    margin: 50px;
+}
+.heading{
+    text-align: center;
+    font-weight: 100px;
+    color: rgb(14, 74, 60);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.sub-tit{
+    text-align: center;
+    font-weight: 100px;
+    color: rgb(108, 16, 16);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.imgs{
+    padding-left:300px;
+    padding-right:300px;
+}
+
